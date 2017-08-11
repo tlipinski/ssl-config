@@ -48,7 +48,7 @@ We aim to stabilise the APIs and provide a stable release eventually.
 Documentation
 =============
 
-Docs are available on: http://typesafehub.github.io/ssl-config
+Docs are available on: https://jonas.github.io/ssl-config
 
 Recommended reading
 ===================
